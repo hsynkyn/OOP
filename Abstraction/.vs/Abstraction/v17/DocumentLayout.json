@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\abstraction\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\abstraction\\abstraction\\model\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\model\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\abstraction\\abstraction\\model\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\model\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\abstraction\\abstraction\\model\\flute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\model\\flute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\abstraction\\abstraction\\model\\drums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\model\\drums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|c:\\users\\h\u00FCseyin\\source\\repos\\abstraction\\abstraction\\model\\musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927E076-4EDF-4EC2-AA6B-ABF653E0AE7D}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\model\\musician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Musician.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Musician.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Model\\Musician.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Musician.cs",
+              "RelativeToolTip": "Abstraction\\Model\\Musician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:45:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:45:20.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instrument.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Instrument.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Model\\Instrument.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Instrument.cs",
+              "RelativeToolTip": "Abstraction\\Model\\Instrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:45:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Guitar.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Model\\Guitar.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Guitar.cs",
+              "RelativeToolTip": "Abstraction\\Model\\Guitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:45:18.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flute.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Flute.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Model\\Flute.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Flute.cs",
+              "RelativeToolTip": "Abstraction\\Model\\Flute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:45:17.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drums.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Drums.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Model\\Drums.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin\\source\\repos\\Abstraction\\Abstraction\\Model\\Drums.cs",
+              "RelativeToolTip": "Abstraction\\Model\\Drums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:45:17.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
