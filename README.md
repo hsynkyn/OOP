@@ -1,4 +1,4 @@
-# OOP (Nesne Yönelimli Programlama) Örnek Projesi
+# OOP (Nesne Yönelimli Programlama)
 
 Bu proje, yazılım geliştirmede yaygın olarak kullanılan Nesne Yönelimli Programlama (OOP) kavramlarını öğretmek amacıyla hazırlanmıştır. Projede temel OOP prensipleri, her biri ayrı klasörde örneklenmiştir.
 
